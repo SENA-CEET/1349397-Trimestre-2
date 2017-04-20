@@ -21,6 +21,51 @@ public class Ejemplo01 {
         }else{
             System.out.println("falso");
         }
+        //cascada
+        if (true) {
+            
+        } else {
+            if (true) {
+                
+            } else {
+                if (true) {
+                    
+                } else {
+                }
+            }
+            
+        }
+        
+        //anidada
+        if (true) {
+            if (true) {
+                
+            } else {
+            }
+        } else {
+            if (true) {
+                
+            } else {
+            }
+        }
+        
+        //secuencial
+        
+        if (true) {
+            
+        }
+        if (true) {
+            
+        }
+        if (true) {
+            
+        }
+        
+        
+        
+        
+        
+        
         
     }
     
