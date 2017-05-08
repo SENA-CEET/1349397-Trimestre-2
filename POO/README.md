@@ -1,17 +1,26 @@
-1. Clase, objeto
+1. Clase(abstractas, concretas), objeto
 
 2. Atributo
 3. Metodo
+4. encapsulamiento
+5. metodos mutadores y acesores
+6. constructor, constructor generico, constructor con parametros
+7. sobrecarga de constructores
+8. sobrecarga de metodos
+
 
 
 3. visibilidad
+
+
+
 4. atributos estaticos
 5. atributos final
 
-7. metodos mutadores y acesores
-8. encapsulamiento
+
+
 9. visibilidad en los metodos
-10. constructor, constructor generico, constructor con parametros
+
 11. sobrecarga de constructores
 12. Wrappers
 13. sobrecarga de metodos
