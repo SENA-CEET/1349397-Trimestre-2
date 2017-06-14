@@ -15,31 +15,16 @@
 14. Generalización (herencia)
 15. clases finales
 16. metodos finales
-
-visibilidad
-
-
-
-
-
-
-4. 
-5. 
-
-
-
-visibilidad en los metodos
-
-12. Wrappers
-
-14. 
-15. sobreescritura de metodos
-16. Polimorfismo
-
-18. dependencia
-19. final en la clases y en los metodos
-20. Arrays
-21. Realiziacion
+17. sobreeescritura de metodos
+18. dependencias
+19. alta cohexion bajo acoplamiento
+20. super(), super, this
+21. Polimorfismo 
+22. visibilidad
+23. API (Aplication program interface)
+23. Wrappers (boxing, unboxing, autounboxing)
+24. casting, autocasting
+25. Realiziacion
 22. Interfaces (Generalizacion, Implementación)
 23. clases anidadas
 23.1 Nested classes
@@ -47,7 +32,9 @@ visibilidad en los metodos
 23.1.2. non-static (Non-static nested classes or inner classes)
 23.2. Anonymous Classes
 23.3. inner class into methods
-24. Collections (List)
-25. asociación (asociación, composición, agregación)
-26. asosiation class
-27. sobreescritura del metodo equals, hashcode
+24. asociación (asociación, composición, agregación) simples
+25. sobreescritura del metodo equals, hashcode
+26. Collections (List)
+27. asociación (asociación, composición, agregación) multiplicidad multiple *
+28. metodo toString()
+29. asosiation class
