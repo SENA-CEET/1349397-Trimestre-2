@@ -11,6 +11,7 @@ public class Rol {
     private String status;
     private List<RolHasCustomer> roles;
 
+
     public String getRol() {
         return rol;
     }
